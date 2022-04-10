@@ -195,7 +195,7 @@ highlights:
   TSTextReference: "fg"
   TSEnvironment: "fg"
   TSEnvironmentName: "fg"
-  TSNote: "fg"
+  TSNote: "todo_red - b"
   TSWarning: "fg - i"
   TSDanger: "fg - b"
   TSTodo: "todo_red - b"
