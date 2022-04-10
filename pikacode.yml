@@ -163,7 +163,7 @@ highlights:
   TSKeywordReturn: "blue"
   TSLabel: "blue"
   TSMethod: "function_green"
-  TSNamespace: "type_orange"
+  TSNamespace: "fg"
   TSNumber: "number_purple"
   TSOperator: "red"
   TSParameter: "fg"

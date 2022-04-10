@@ -113,7 +113,7 @@ hi TSKeywordOperator guifg=#d7005f ctermfg=161 guibg=NONE ctermbg=NONE gui=NONE 
 hi TSKeywordReturn guifg=#00afff ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSLabel guifg=#00afff ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSMethod guifg=#5fffd7 ctermfg=86 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSNamespace guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSNamespace guifg=#e4e4e4 ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSNumber guifg=#af00ff ctermfg=129 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSOperator guifg=#d7005f ctermfg=161 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameter guifg=#e4e4e4 ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
