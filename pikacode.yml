@@ -205,4 +205,8 @@ highlights:
   TSTypeDefinition: "type_orange"
   TSVariable: "fg"
   TSVariableBuiltin: "constant_orange"
+
+  # C {{{
+  TSCInclude: "include_green"
+  # }}}
   # }}}

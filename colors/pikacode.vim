@@ -155,3 +155,4 @@ hi TSTypeQualifier guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE ct
 hi TSTypeDefinition guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSVariable guifg=#e4e4e4 ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSVariableBuiltin guifg=#d75f00 ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSCInclude guifg=#87d700 ctermfg=112 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
