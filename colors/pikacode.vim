@@ -146,8 +146,8 @@ hi TSTextReference guifg=#e4e4e4 ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE ct
 hi TSEnvironment guifg=#e4e4e4 ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSEnvironmentName guifg=#e4e4e4 ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSNote guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=bold cterm=bold
-hi TSWarning guifg=#e4e4e4 ctermfg=254 guibg=NONE ctermbg=NONE gui=italic cterm=italic
-hi TSDanger guifg=#e4e4e4 ctermfg=254 guibg=NONE ctermbg=NONE gui=bold cterm=bold
+hi TSWarning guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=italic cterm=italic
+hi TSDanger guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi TSTodo guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi TSType guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTypeBuiltin guifg=#ffd75f ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
