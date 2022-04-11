@@ -93,7 +93,7 @@ highlights:
   SpellBad: "dark_red - u"
   SpellCap: "blue - u"
   SpellLocal: "yellow - u"
-  SpellRare: "function_green - u"
+  SpellRare: "green - u"
   StatusLine: "gray_2 gray_5"
   StatusLineNC: "gray_2 gray_6"
   TabLine: "gray_2 gray_6"

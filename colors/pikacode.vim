@@ -52,7 +52,7 @@ hi SpecialKey guifg=#e3b7ff ctermfg=183 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi SpellBad guifg=#9f0036 ctermfg=125 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi SpellCap guifg=#00afff ctermfg=39 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi SpellLocal guifg=#ffee68 ctermfg=227 guibg=NONE ctermbg=NONE gui=underline cterm=underline
-hi SpellRare guifg=#5fffd7 ctermfg=86 guibg=NONE ctermbg=NONE gui=underline cterm=underline
+hi SpellRare guifg=#87d700 ctermfg=112 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi StatusLine guifg=#9e9e9e ctermfg=247 guibg=#424242 ctermbg=238 gui=NONE cterm=NONE
 hi StatusLineNC guifg=#9e9e9e ctermfg=247 guibg=#212121 ctermbg=235 gui=NONE cterm=NONE
 hi TabLine guifg=#9e9e9e ctermfg=247 guibg=#212121 ctermbg=235 gui=NONE cterm=NONE
