@@ -103,7 +103,7 @@ highlights:
   Visual: "- gray_5"
   VisualNOS: "- gray_5"
   WarningMsg: "black orange"
-  Whitespace: "light_red"
+  Whitespace: "gray_5"
   WildMenu: "yellow gray_4"
   # }}}
   # Code (groups copied from pikacode.vim) {{{

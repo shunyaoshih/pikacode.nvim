@@ -62,7 +62,7 @@ hi Title guifg=#c87f31 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Visual guifg=NONE ctermfg=NONE guibg=#424242 ctermbg=238 gui=NONE cterm=NONE
 hi VisualNOS guifg=NONE ctermfg=NONE guibg=#424242 ctermbg=238 gui=NONE cterm=NONE
 hi WarningMsg guifg=#000000 ctermfg=16 guibg=#ffaf5f ctermbg=215 gui=NONE cterm=NONE
-hi Whitespace guifg=#ff548c ctermfg=204 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Whitespace guifg=#424242 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#ffee68 ctermfg=227 guibg=#616161 ctermbg=241 gui=NONE cterm=NONE
 hi Number guifg=#af00ff ctermfg=129 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Constant guifg=#d75f00 ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
