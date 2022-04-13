@@ -14,7 +14,7 @@ hi lCursor guifg=#000000 ctermfg=16 guibg=#e0e0e0 ctermbg=254 gui=NONE cterm=NON
 hi CursorIM guifg=#000000 ctermfg=16 guibg=#e0e0e0 ctermbg=254 gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#000000 ctermbg=16 gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#212121 ctermbg=235 gui=NONE cterm=NONE
-hi Directory guifg=#ffee68 ctermfg=227 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Directory guifg=#00afff ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DiffAdd guifg=#ffaf5f ctermfg=215 guibg=#127500 ctermbg=28 gui=NONE cterm=NONE
 hi DiffChange guifg=#ffaf5f ctermfg=215 guibg=#002c6b ctermbg=17 gui=NONE cterm=NONE
 hi DiffDelete guifg=#ffaf5f ctermfg=215 guibg=#000000 ctermbg=16 gui=NONE cterm=NONE

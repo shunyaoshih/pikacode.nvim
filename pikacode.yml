@@ -55,7 +55,7 @@ highlights:
   CursorIM: "black white"
   CursorColumn: "- black"
   CursorLine: "- gray_6"
-  Directory: "yellow"
+  Directory: "blue"
   DiffAdd: "orange deep_green"
   DiffChange: "orange dark_deep_blue"
   DiffDelete: "orange black"
