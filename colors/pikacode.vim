@@ -32,7 +32,7 @@ hi LineNr guifg=#616161 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LineNrAbove guifg=#616161 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LineNrBelow guifg=#616161 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CursorLineNr guifg=#ffee68 ctermfg=227 guibg=NONE ctermbg=NONE gui=bold cterm=bold
-hi MatchParen guifg=NONE ctermfg=NONE guibg=#616161 ctermbg=241 gui=NONE cterm=NONE
+hi MatchParen guifg=#ffee68 ctermfg=227 guibg=#616161 ctermbg=241 gui=NONE cterm=NONE
 hi ModeMsg guifg=#ffaf5f ctermfg=215 guibg=#000000 ctermbg=16 gui=NONE cterm=NONE
 hi MsgArea guifg=#e0e0e0 ctermfg=254 guibg=#000000 ctermbg=16 gui=NONE cterm=NONE
 hi MsgSeparator guifg=NONE ctermfg=NONE guibg=#000000 ctermbg=16 gui=NONE cterm=NONE
