@@ -155,3 +155,5 @@ hi TSTypeQualifier guifg=#ffe18e ctermfg=222 guibg=NONE ctermbg=NONE gui=NONE ct
 hi TSTypeDefinition guifg=#ffe18e ctermfg=222 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSVariable guifg=#e0e0e0 ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSVariableBuiltin guifg=#d75f00 ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi FloatBorder guifg=#ffee68 ctermfg=227 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LspInfoBorder guifg=#ffee68 ctermfg=227 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
